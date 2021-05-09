@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    
+    margin-top: 30px;
+    margin-left: 15px;
+
+
+    background-color: #afe6e6;
+}
+
+.zoom-comparison img{
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
