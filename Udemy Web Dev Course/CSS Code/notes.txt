@@ -1,0 +1,20 @@
+DISPLAY:
+    block elements - take up whole width of the screen
+    inline elements - don't block other elements being on the same line as them - can't change width tho
+    inline-block elements - can change width - can go on same line too
+    none elements - gets rid of element
+
+POSITION:
+    static position - keep to default html
+    
+    relative position - position element relative to how it would've been positioned had it been static
+        CO-ORDINATE PROPERTIES:
+            left : 20 - move right 20 (margin to the left)
+            top : 20 - move down 20
+            right : 20 - move left 20
+            bottom : 20 - move up 20
+        doesn't impact position of anything on screen
+
+    absolute position - positioning the element relative to its parent object
+
+    fixed position - position doesn't change when scrolling
